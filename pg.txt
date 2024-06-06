@@ -1,0 +1,167 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<meta charset="UTF-8">
+<title>"Practica 20"</title>
+<link rel="stylesheet" type="text/css" href="final.css">
+</head>
+<header class="cabecera">
+<h1>Parcial 3</h1>
+<nav class="menu">
+<a href="file:///E:/Web%204CPM%20Yuna/Practica%2020/Practica%2020.html">Práctica 20 Cambio Climático</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Practica%2021/paginap.html">Práctica 21 Tribus Indigenas de México - Página Principal</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Practica%2021/kiliwa%2021.1.html">Práctica 21.1 Tribu 1</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Practica%2021/paipai21.2.html">Práctica 21.2 Tribu 2</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Practica%2021/cucapa21.3.html">Práctica 21.3 Tribu 3</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Pr%C3%A1ctica%2022/pagina%20principal.html">Práctica 22 Principal de las Emociones - Película Intensamente</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Pr%C3%A1ctica%2022/tristeza.22.1.html">Práctica 22.1 Emociones Tristeza - Película Intesanmente</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Pr%C3%A1ctica%2022/enojo.html">Práctica 22.2 Emociones Enojo - Película Intesanmente</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Pr%C3%A1ctica%2022/alegria.html">Práctica 22.3 Emociones Alegria - Película Intesanmente</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Pr%C3%A1ctica%2022/desagrado.html">Práctica 22.4 Emociones Desagrado - Película Intesanmente</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Pr%C3%A1ctica%2022/temor.html">Práctica 22.5 Emociones Temor - Película Intesanmente</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Proyecto%20Transversal/energia%20fisica.html">Proyecto Transversal</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Pr%C3%A1ctica%2023/vd.html">Práctica 23 - Tipos de Videojuegos</a>
+<a href="file:///E:/Web%204CPM%20Yuna/Practica%2025/flores.html">Práctica 25 - Flores</a>
+</nav>
+<main>
+</header>
+<article class="articulo">
+<left>
+<h2>Práctica 20 Cambio Climático</h2>
+<p>En esta práctica se muestra información sobre el cambio climático, donde por primera vez utilizamos
+la nueva herramienta de apartados en el código CSS. Esta práctia cuenta con 1 página sola, donde se muestra 
+un encabezado con un menu y sus respectivos links para guiarte a los puntos de la página, una sección 
+de aparte donde hay imagenes y links que te llevaran a distintos sitios web que te dirán mas 
+información de este tema, un articulo donde incluye imagenes y mas información relacionada, 
+y por ultimo un pie de página donde viene los datos y la frase de cuando se trabajo con esa
+práctica.
+Esta es de mis prácticas favoritas de este parcial pues me gusta mucho el diseño.</p>
+<h2>Práctica 21 Tribus Indigenas de México - Página Principal</h2>
+<p>Esta práctica consta de 4 páginas sobre las tribus indigenas de México, la primer página muestra la
+página principal y las tres restantes se tratan sobre tres distintas tribus. En la primer página
+cuenta con un encabezado que contiene el titulo, una sección de aparte con imagenes sobre tres 
+tribus indigenas, un articulo con dos secciones: en la primer sección muestra tres links que te 
+llevaran a las otras tres páginas sobre tribus y en la segunda seccion comparte información sobre el
+clima en cada lugar donde habitan las tribus que se mencionan. Y por ultimo esta página principal
+contiene un pie de pagina con los datos y la frase de cuando se trabajo con esta práctica.
+Esta práctica se me dificulto un poco ya que no habia hecho antes una página con un articulo divido en dos
+secciones pero fue interesante poder trabajar con el código CSS para encontrar la manera de crear esta
+práctica.</p>
+<h2>Práctica 21.1 Tribu 1</h2>
+<p>Esta práctica contiene solo una secciónde articulo y un pie de página. En el articulo se encuentra el
+nombre de la tribu indigena 1 (Kiliwa), parrafos de información, imagenes, una lista con datos curiosos 
+sobre la tribu, una tabla de información, 5 imagenes referentes con 5 links donde te llevaran a distintas
+páginas web para obtener mas información. Y por ultimo, un pie de página con los datos y su frase
+correspondiente de cuando se trabajo con la práctica.
+Esta práctica fue mi favorita de todo el semestre, a pesar de no ser la páginas mas elaborada que he
+hecho, la considero muy sencilla pero con un buen diseñom ademas que la información que se muestra,
+la encuentro interesante y pienso que mas personas deberiamos tener conocimiento de tribus como estas.</p>
+<h2>Práctica 21.2 Tribu 2</h2>
+<p>Esta práctica solo cuenta con un articulo, es decir, no contiene ninguna sección. El primer elemento que
+esta en esta página es el titulo de la tribu indigena 2 (PaiPai), seguido de esto, tres parrafos de
+información, y del lado izquierdo, tres tablas con información, donde debajo de las tablas, hay una lista 
+con datos curiosos sobre la tribu. Finalmente, un video referente al tema y los datos, junto con su frase
+correspondiente de cuando se trabajo con la práctica.
+Esta práctica fue bastante sencilla, a falta de tiempo, por lo que me hubiera gustado ponerle mas empeño.</p>
+<h2>Práctica 21.3 Tribu 3</h2>
+<p>Eta práctica cuenta con solo un articulo, es decir, no contiene ninguna sección. En el inicio, primero se
+encuentra el titulo de la tribu indigena 3 (Cucapa), debajo de este, una imagen y un video referente al tema.
+Seguido de esto, tres parrafos de información y una lista sobre datos curiosos, dos tablas con información y
+por ultimo, los datos donde y la frase de cuando se trabajo con esta práctica.
+Esta práctica me gusto un poco mas quela anterior, por la combinación de colores.</p>
+<h2>Práctica 22 Principal de las Emociones - Película Intensamente</h2>
+<p>Esta práctica consta de 6 páginas, una página principal y 5 páginas más donde se habla de distintas
+emociones (Tristeza, Enojo, Alegria, Desagrado y Temor). La página principal cuenta con un encabezado 
+donde contiene el titulo y una imagen de fondo, debajo de este viene un menu con links donde te llevaran
+a las páginas sobre su respectiva emoción. Ademas, cuenta con un articulo, aqui se muestra un poco de
+información, como el concepto de las emociones y sus clasficaciones, mientras que debajo de este hay
+una imagen. Por ultimo, esta página contiene un pie de página donde se muestran los datos y la frase
+de cuando se trabajo con esta práctica.
+Esta página a pesar de ser un poco sencilla con el diseño, fue de mis favoritas, pues aunque sea sencillo,
+se ve muy lindo con las imagenes y combinación de colores.</p>
+<h2>Práctica 22.1 Emociones Tristeza - Película Intesanmente</h2>
+<p>Esta práctica consta con 5 secciónes: Encabezado, menu, aparte, articulo y pie de página.
+En el encabezado se encuentra el titulo de la emoción, junto con una imagen de fondo. En el menu se muestran
+diferentes rutas que te guiaran en la información de la página. En el aparte vienen 3 peliculas de Disney
+donde son consideradas generadores de tristeza. En el articulo viene el concepto de tristeza y su importancia,
+debajo de esta información, viene una tabla conn 5 imagenes referentes al tema. Y por ultimo en el pie de página,
+vienen los datos y la frase de cuando se trabajo con la práctica.</p>
+<h2>Práctica 22.2 Emociones Enojo - Película Intesanmente</h2>
+<p>Esta práctica consta con 5 secciónes: Encabezado, menu, aparte, articulo y pie de página.
+En el encabezado se encuentra el titulo de la emoción, junto con una imagen de fondo. En el menu se muestran
+diferentes rutas que te guiaran en la información de la página. En el aparte vienen 3 peliculas de Disney
+donde son consideradas generadores de enojo. En el articulo viene el concepto del enojo y su importancia,
+debajo de esta información, viene una tabla conn 5 imagenes referentes al tema. Y por ultimo en el pie de página,
+vienen los datos y la frase de cuando se trabajo con la práctica.</p>
+<h2>Práctica 22.3 Emociones Alegria - Película Intesanmente</h2>
+<p>Esta práctica consta con 5 secciónes: Encabezado, menu, aparte, articulo y pie de página.
+En el encabezado se encuentra el titulo de la emoción, junto con una imagen de fondo. En el menu se muestran
+diferentes rutas que te guiaran en la información de la página. En el aparte vienen 3 peliculas
+donde son consideradas generadores de alegria. En el articulo viene el concepto de alegria y su importancia,
+debajo de esta información, viene una tabla conn 5 imagenes referentes al tema. Y por ultimo en el pie de página,
+vienen los datos y la frase de cuando se trabajo con la práctica.</p>
+<h2>Práctica 22.4 Emociones Desagrado - Película Intesanmente</h2>
+<p>Esta práctica consta con 5 secciónes: Encabezado, menu, aparte, articulo y pie de página.
+En el encabezado se encuentra el titulo de la emoción, junto con una imagen de fondo. En el menu se muestran
+diferentes rutas que te guiaran en la información de la página. En el aparte vienen 3 peliculas
+donde son consideradas generadores de desagrado. En el articulo viene el concepto de desagrado y su importancia,
+debajo de esta información, viene una tabla conn 5 imagenes referentes al tema. Y por ultimo en el pie de página,
+vienen los datos y la frase de cuando se trabajo con la práctica.</p>
+<h2>Práctica 22.5 Emociones Temor - Película Intesanmente</h2>
+<p>Esta práctica consta con 5 secciónes: Encabezado, menu, aparte, articulo y pie de página.
+En el encabezado se encuentra el titulo de la emoción, junto con una imagen de fondo. En el menu se muestran
+diferentes rutas que te guiaran en la información de la página. En el aparte vienen 3 peliculas
+donde son consideradas generadores de temor. En el articulo viene el concepto de temor y su importancia,
+debajo de esta información, viene una tabla conn 5 imagenes referentes al tema. Y por ultimo en el pie de página,
+vienen los datos y la frase de cuando se trabajo con la práctica.</p>
+<h2>Proyecto Transversal</h2>
+<p>Esta practica es sobre el Proyecto Transversal, en este los docentes piden a los alumnos de programación
+hacer una página sobre un tema especifico que fue escogido entre todos, y crearla referente al tema y a la materia
+que enseñe el docente. Fue un trabajo en equipo y a mi me toco hacer la página de la materia de Física con el tema
+de la energia solar. Esta página cuenta con 5 secciones: Encabezado, aparte, dos apartados de articulo y
+pie de página. En el encabezado cuenta con el nombre de la materia asignada como titulo y una imagen de fondo.
+En el primer apartado del articulo cuenta con información de la energia solar y otras energias, acompañada de una
+imagen. En el segundo apartado del articulo, viene informacion sobre la fisica en el efecto voltaico. En el aparte
+se adjuntaron tres imagenes referente al tema, y por ultimo en el pie de página vienen los datos y su frase de 
+cuando se trabajo con esta práctica.</p>
+<h2>Práctica 23 - Tipos de Videojuegos</h2>
+<p>Esta práctica cuenta con 4 secciones: Encabezado, aparte, articulo y pie de página. En el encabezado se encuentra
+el titulo con un imagen de fondo. En el aparte hay una lista de tres juegos cnon sus respectivas imagenes, donde si
+das click a la imagen, te llevara a una página donde hable sobre el juego. En el articulo habla sobre la creación
+de los videojuegos y en una lista, muestra los generos principales de los videojuegos. Por ultimo, en el pie de
+página, vienen los datos y la frase de cuando se trabajo con esta práctica.
+Esta práctica es de mis favoritas pues cada videojuego es alguno de los que disfrute jugar alguna vez, ademas de que
+me gusta el diseño de la página.</p>
+<h2>Práctica 25 - Flores</h2>
+<p>Esta práctica cuenta con 5 secciones: Encabezado, menu, articulo, aparte ubicado arriba del pie de página y el
+pie de página. En el encabezado viene el titulo con un fondo de color y un gif. En el menu vienen 4 apartados de
+distintas flores que te llevaran a una página donde hablen ams a fondo de estas. En el articulo hay una definición 
+de las flores, un video, dos imagenes, una lista de las flores mas populares y por ultimo un link donde te llevara
+a un sitio web con mas información acerca del tema. Finalmente en el pie de página vienen los datos y la frase
+de cuando se trabajo con esta práctica.</p>
+</left>
+</article>
+<aside class = "aparte">
+<h3>Etiquetas más utilizadas</h3>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</aside>
+</main>
+<footer class = "footer">
+<br>
+Alumna:Yuna Melina Granados Martinez<br>
+Grupo:4CPM<br>
+Maestra:Bertha Eugenia Perez<br>
+Frase"Cuando te permites lo que te mereces, atraes lo que necesitas"
+</footer>
+</body>
+</html>
